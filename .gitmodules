@@ -1,0 +1,9 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/AlirezaDa-jc/docs-front
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AlirezaDa-jc/doc-backend
+[submodule "core"]
+	path = core
+	url = https://github.com/AlirezaDa-jc/doc-core
